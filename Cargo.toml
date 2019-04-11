@@ -1,0 +1,8 @@
+[package]
+name = "mysketch"
+version = "0.1.0"
+authors = ["Brian Hinch <brian@tellart.com>"]
+edition = "2018"
+
+[dependencies]
+nannou = "0.8.0"
